@@ -1,4 +1,4 @@
-## The original dataset (as described below) has been modified as follows:
+## For the Getting-And-Cleaning-Data-Assignment has the original dataset (as described below) been modified as follows:
 
  -  The training and the test sets are merged to create one data set.
  -  Only the measurements on the mean and standard deviation are extracted for each measurement.
