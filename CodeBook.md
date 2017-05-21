@@ -1,4 +1,4 @@
-## For the Getting-And-Cleaning-Data-Assignment has the original dataset (as described below) been modified as follows:
+## For the Getting-And-Cleaning-Data-Assignment the original dataset (as described below) is used to create a second tidy data set:
 
  -  The training and the test sets are merged to create one data set.
  -  Only the measurements on the mean and standard deviation are extracted for each measurement.
